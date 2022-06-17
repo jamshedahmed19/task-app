@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Create a new project",
+      "day": "Monday",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Create a new project",
+      "day": "Tuesday",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Create a new project",
+      "day": "Wednesday",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Create a new project",
+      "day": "Thursday",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Create a new project",
+      "day": "Friday",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Create a new project",
+      "day": "Saturday",
+      "reminder": false
+    },
+    {
+      "id": 7,
+      "text": "Create a new project",
+      "day": "Sunday",
+      "reminder": true
+    },
+    {
+      "text": "ads",
+      "day": "asd",
+      "reminder": false,
+      "id": 8
+    }
+  ]
+}
